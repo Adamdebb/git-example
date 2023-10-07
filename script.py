@@ -24,6 +24,4 @@ print(calculate_variance(amazon_returns))
 print(calculate_variance(ebay_returns))
 
 print(display_as_percentage(calculate_stddev(amazon_returns)))
-print(display_as_percentage(calculate_stddev(ebay_returns)))
 
-print(display_as_percentage(calculate_correlation(amazon_returns, ebay_returns)))
